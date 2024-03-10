@@ -114,11 +114,11 @@ section {
    }
    
    .img1 {
-       background-image: url(../img/budindelimon.jpg);
+       background-image: url(./img/budindelimon.jpg);
    }
    
    .img2 {
-       background-image: url(../img/macarron.png.jpg);
+       background-image: url(./img/macarron.png.jpg);
    }
 
    /* Mobil First INICIO*/
