@@ -91,6 +91,7 @@ main {
 }
    
 section {
+    margin-bottom: 20px;
     background-color: #c3c8ca;
     background-size: cover;
     height: auto;
